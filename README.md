@@ -15,6 +15,6 @@
 
 <b>Divide & Conquer and Recurrences:</b> Problems completed after learning divide & conquer techniques and recurrence relations.<br><br>
 
-<b>Asymptotic Analysis:</b> Problems completed after learning asymptotic analysis.<br><br>
+<b>Graphs:</b> Problems completed after learning graph algorithms.<br><br>
 
-<b>Asymptotic Analysis:</b> Problems completed after learning asymptotic analysis.<br><br>
+<b>NP-Completeness:</b> Problems completed after learning NP-Completeness proofs.<br><br>
