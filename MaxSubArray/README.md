@@ -1,5 +1,5 @@
 # Max Sub Array
-Project Members: Kelsey Helms, Jay Steingold, Johannes Pikel
+Project Members: Kelsey Helms, Johannes Pikel, Jay Steingold
 
 In order to run the file on the Flip server please have MSS_Problems.txt in the same directory as maxSubArray.py.  From that directory please run the file with "python maxSubArray.py" When asked to enter a file name leave the line blank and hit [enter] it will default to MSS_Problems.txt
 
