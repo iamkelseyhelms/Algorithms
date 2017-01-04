@@ -3,8 +3,8 @@
 
 ###Group Projects:
 
-<b>MaxSubArray:</b> Game that tries to guess the animal the user is thinking of.<br>
-*Algorithms Used: Binary Search Tree*<br><br>
+<b>CoinChange:</b> Computes change with as few coins as possible given denominations of coins and an amount.<br>
+*Algorithms Used: Brute Force, Greedy, Dynamic Programming*<br><br>
 
-<b>CoinChange:</b> Game that tries to guess the animal the user is thinking of.<br>
+<b>MaxSubArray:</b> Outputs the subarray with the maximum sum of an array. Also computes and outputs the sum of this subarray.<br>
 *Algorithms Used: Binary Search Tree*<br><br>
