@@ -1,4 +1,4 @@
-# CS325-Project2
+# Coin Change
 Project Members: Kelsey Helms, Johannes Pikel, Jay Steingold
 
 This readme is for running the brute force (slow), greedy and dynamic programming algorithms written in Python.
