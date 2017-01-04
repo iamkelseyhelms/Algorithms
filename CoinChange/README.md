@@ -1,5 +1,5 @@
 # CS325-Project2
-Group Members: Kelsey Helms, Jay Steingold, Johannes Pikel
+Project Members: Kelsey Helms, Johannes Pikel, Jay Steingold
 
 This readme is for running the brute force (slow), greedy and dynamic programming algorithms written in Python.
 
