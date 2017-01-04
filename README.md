@@ -1,5 +1,5 @@
 # Algorithms
-##Languages Used: Python
+##Languages Used: Python, LINDO
 
 ###Group Projects:
 
